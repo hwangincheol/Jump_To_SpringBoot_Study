@@ -4,7 +4,7 @@
 게시판 서비스를 만들어가는 과정을 설명한 스프링부트 교재를 통해 복습 및 새로운 방식의 코드 진행을 학습하였음.
 
 ![화면 캡처 2025-04-14 104436](https://github.com/user-attachments/assets/7ef2d6ff-90f7-40f0-9910-a94dd33641fd)
-https://wikidocs.net/book/1
+[https://wikidocs.net/book/1](https://wikidocs.net/book/7601)
 
 - 자바 버전 : 17.0.9
 - IntelliJ을 사용하여 예제 학습
